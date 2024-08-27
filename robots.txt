@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://izestani.github.io/sitemap.html.gz
+Sitemap: https://izestani.github.io/app/sitemap.html.gz
+Sitemap: https://izestani.github.io/assets/sitemap.html.gz
+Sitemap: https://izestani.github.io/css/sitemap.html.gz
+Sitemap: https://izestani.github.io/includes/sitemap.html.gz
+Sitemap: https://izestani.github.io/item/sitemap.html.gz
+Sitemap: https://izestani.github.io/src/sitemap.html.gz
